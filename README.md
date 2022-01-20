@@ -16,11 +16,11 @@
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
-<a href="https://github.com/deividev5" target="_blank">
+<a href="deivissonmatos95@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="deivissonmatos95@gmail.com" target="_blank">
+<a href="https://github.com/deividev5" target="_blank">
  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
