@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Deivisson Gonçalves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deividev5&color=blue" alt="Profile views" /> </p>
 
-- 👨‍💻 I'm starting this programming career
+- 👨‍💻 Software Engineer
 
-- 📚 I'm running: HTML, JavaScript, CSS and Git
+- 📚 I have knowledge in Node, Javascript, React and others...
 
 - 🔧I will gradually update...
 
@@ -28,10 +28,11 @@
 ## ✍ &nbsp; Studying
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp; Analytics
